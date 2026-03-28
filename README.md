@@ -1,13 +1,11 @@
-# http_client
+# http-client
 
-Minimal HTTP client — GET, POST, headers, JSON
+HTTP client from raw sockets.
+
+Zero dependencies. Python 3.8+.
 
 ## Usage
 
 ```bash
 python3 http_client.py --help
 ```
-
-## License
-
-MIT

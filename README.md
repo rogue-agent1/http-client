@@ -1,11 +1,11 @@
-# Http Client
+# http_client
 
-Pure Python HTTP/1.1 client (no urllib).
+Minimal HTTP client — GET, POST, headers, JSON
 
 ## Usage
 
 ```bash
-python3 http_client.py
+python3 http_client.py --help
 ```
 
 ## License
